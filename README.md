@@ -40,22 +40,22 @@ By the end of this programming book, you'll have become adept at solving real-wo
 In this second edition of [50 Algorithms Every Programmer Should Know](https://www.packtpub.com/product/50-algorithms-every-programmer-should-know-ndash-second-edition-second-edition/9781803247762), most algorithms from the first edition have been updated in line with current IT trends. Further, readers will also delve into advanced deep learning architectures with new chapters on sequential models like LSTMs, GRUs, RNNs, and Large Language Models (LLMs). This edition also sheds light on contemporary topics such as addressing hidden data biases and demystifying algorithm explainability.
 
 ## Outline and Chapter Summary
-1. [Overview of Algorithms](https://github.com/PacktPublishing/Mastering-Tableau-2023-Fourth-Edition/tree/main/Chapter01)
-2. [Data Structures Used in Algorithms](https://github.com/PacktPublishing/Mastering-Tableau-2023-Fourth-Edition/tree/main/Chapter02) 
-3. [Sorting and Searching Algorithms](https://github.com/PacktPublishing/Mastering-Tableau-2023-Fourth-Edition/tree/main/Chapter03) 
-4. [Designing Algorithms](https://github.com/PacktPublishing/Mastering-Tableau-2023-Fourth-Edition/tree/main/Chapter04) 
-5. [Graph Algorithms](https://github.com/PacktPublishing/Mastering-Tableau-2023-Fourth-Edition/tree/main/Chapter05)
-6. [Unsupervised Machine Learning Algorithms](https://github.com/PacktPublishing/Mastering-Tableau-2023-Fourth-Edition/tree/main/Chapter06)
-7. [Traditional Supervised Learning Algorithms](https://github.com/PacktPublishing/Mastering-Tableau-2023-Fourth-Edition/tree/main/Chapter07)
-8. [Neural Network Algorithms](https://github.com/PacktPublishing/Mastering-Tableau-2023-Fourth-Edition/tree/main/Chapter08) 
-9. [Algorithms for Natural Language Processing](https://github.com/PacktPublishing/Mastering-Tableau-2023-Fourth-Edition/tree/main/Chapter09)
-10. [Understanding Sequential Models](https://github.com/PacktPublishing/Mastering-Tableau-2023-Fourth-Edition/tree/main/Chapter10)
-11. [Advanced Sequential Modeling Algorithms](https://github.com/PacktPublishing/Mastering-Tableau-2023-Fourth-Edition/tree/main/Chapter11) 
-12. [Recommendation Engines](https://github.com/PacktPublishing/Mastering-Tableau-2023-Fourth-Edition/tree/main/Chapter12) 
-13. [Algorithmic Strategies for Data Handling](https://github.com/PacktPublishing/Mastering-Tableau-2023-Fourth-Edition/tree/main/Chapter13)
-14. [Cryptography](https://github.com/PacktPublishing/Mastering-Tableau-2023-Fourth-Edition/tree/main/Chapter14)
-15. [Large-Scale Algorithms](https://github.com/PacktPublishing/Mastering-Tableau-2023-Fourth-Edition/tree/main/Chapter15) 
-16. [Practical Considerations]()
+1. [Overview of Algorithms]()
+2. [Data Structures Used in Algorithms](https://github.com/cloudanum/50Algorithms/tree/main/Chapter02) 
+3. [Sorting and Searching Algorithms](https://github.com/cloudanum/50Algorithms/tree/main/Chapter03) 
+4. [Designing Algorithms](https://github.com/cloudanum/50Algorithms/tree/main/Chapter04) 
+5. [Graph Algorithms](https://github.com/cloudanum/50Algorithms/tree/main/Chapter05)
+6. [Unsupervised Machine Learning Algorithms](https://github.com/cloudanum/50Algorithms/tree/main/Chapter06)
+7. [Traditional Supervised Learning Algorithms](https://github.com/cloudanum/50Algorithms/tree/main/Chapter07)
+8. [Neural Network Algorithms](https://github.com/cloudanum/50Algorithms/tree/main/Chapter08) 
+9. [Algorithms for Natural Language Processing](https://github.com/cloudanum/50Algorithms/tree/main/Chapter09)
+10. [Understanding Sequential Models](https://github.com/cloudanum/50Algorithms/tree/main/Chapter10)
+11. [Advanced Sequential Modeling Algorithms](https://github.com/cloudanum/50Algorithms/tree/main/Chapter11) 
+12. [Recommendation Engines](https://github.com/cloudanum/50Algorithms/tree/main/Chapter12) 
+13. [Algorithmic Strategies for Data Handling](https://github.com/cloudanum/50Algorithms/tree/main/Chapter13)
+14. [Cryptography](https://github.com/cloudanum/50Algorithms/tree/main/Chapter14)
+15. [Large-Scale Algorithms](https://github.com/cloudanum/50Algorithms/tree/main/Chapter15) 
+16. [Practical Considerations](https://github.com/cloudanum/50Algorithms/tree/main/Chapter16)
 
 ### Chapter 1, Reviewing the Basics
 This chapter serves as an introductory guide to essential Tableau concepts, catering to both beginners and advanced users. It underscores Tableau's prominence in addressing business intelligence and analytics challenges. The chapter not only delves into foundational terminologies but also offers practical insights into creating worksheets and dashboards. It emphasizes default behaviors and the ability to customize them, all while adhering to best practices. Crucial principles like Measure Names and Measure Values are covered, paving the way for a comprehensive understanding of dimensions and measures, along with intricate calculations at various levels. The chapter notably distinguishes between data source engine computations for row- and aggregate-level calculations, and Tableau's role in handling table-level calculations. The integration of Tableau with diverse devices, including tablets and mobile devices, is also explored.
