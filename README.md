@@ -20,14 +20,13 @@ By the end of this programming book, you'll have become adept at solving real-wo
 
 
 ## Key Takeaways
-- Learn about various Tableau components, such as calculated fields, table calculations, and LOD expressions
-- Master ETL (Extract, Transform, Load) techniques using Tableau Prep Builder
-- Explore and implement data storytelling with Python and R
-- Understand Tableau Exchange by using accelerators, extensions, and connectors
-- Interact with Tableau Server to understand its functionalities
-- Study advanced visualizations and dashboard creation techniques
-- Brush up on powerful self-service analytics, time series analytics, and geo-spatial analytics
-- Find out why data governance matters and how to implement it
+- Design algorithms for solving complex problems
+- Become familiar with neural networks and deep learning techniques
+- Explore existing data structures and algorithms found in Python libraries
+- Implement graph algorithms for fraud detection using network analysis
+- Work with machine learning algorithms to cluster similar tweets and process Twitter data in real time
+- Create a recommendation engine that suggests relevant movies to subscribers
+- Implement foolproof security using symmetric and asymmetric encryption on Google Cloud Platform
 
 ## New Edition v/s Previous Edition
 - Expanded coverage delving into advanced deep learning architectures
@@ -41,10 +40,6 @@ By the end of this programming book, you'll have become adept at solving real-wo
 In this second edition of [50 Algorithms Every Programmer Should Know](https://www.packtpub.com/product/50-algorithms-every-programmer-should-know-ndash-second-edition-second-edition/9781803247762), most algorithms from the first edition have been updated in line with current IT trends. Further, readers will also delve into advanced deep learning architectures with new chapters on sequential models like LSTMs, GRUs, RNNs, and Large Language Models (LLMs). This edition also sheds light on contemporary topics such as addressing hidden data biases and demystifying algorithm explainability.
 
 ## Outline and Chapter Summary
-This edition of the bestselling Tableau guide will teach you how to leverage Tableau’s newest features and offerings in various paradigms of the BI domain. Updated with fresh topics including the newest features in Tableau Server, Prep, and Desktop, as well as up-to-date examples and solutions to real-world challenges, this book will take you from mastering essential Tableau concepts to advanced functionalities.
-
-By the end of this Tableau book, you will have mastered Tableau 2023 and you will be able to tackle common and advanced challenges in the data analytics space.
-
 1. [Overview of Algorithms](https://github.com/PacktPublishing/Mastering-Tableau-2023-Fourth-Edition/tree/main/Chapter01)
 2. [Data Structures Used in Algorithms](https://github.com/PacktPublishing/Mastering-Tableau-2023-Fourth-Edition/tree/main/Chapter02) 
 3. [Sorting and Searching Algorithms](https://github.com/PacktPublishing/Mastering-Tableau-2023-Fourth-Edition/tree/main/Chapter03) 
