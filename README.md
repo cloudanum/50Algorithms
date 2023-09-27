@@ -61,12 +61,15 @@ To run these notebooks on a cloud platform, just click on Colab badge in the tab
 ||| <ul><li>SVM.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cloudanum/50Algorithms/blob/main/Chapter07/SVM.ipynb) |
 ||| <ul><li>WeatherPrediction.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cloudanum/50Algorithms/blob/main/Chapter07/WeatherPrediction.ipynb) |
 ||| <ul><li>XGBboost.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cloudanum/50Algorithms/blob/main/Chapter07/XGBboost.ipynb) |
-
-
-
-
-
-
+| 08 | **Neural Network Algorithms** | <ul><li>Deep_Learning_Algorithms.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cloudanum/50Algorithms/blob/main/Chapter08/Deep_Learning_Algorithms.ipynb) |
+||| <ul><li>Siamese_working.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cloudanum/50Algorithms/blob/main/Chapter08/Siamese_working.ipynb) |
+| 09 | **Algorithms for Natural Language Processing** | <ul><li>Natural_Language_Processing.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cloudanum/50Algorithms/blob/main/Chapter09/Natural_Language_Processing.ipynb) |
+| 10 | **Understanding Sequential Models** | <ul><li>Understanding_Sequential_Models.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cloudanum/50Algorithms/blob/main/Chapter10/Understanding_Sequential_Models.ipynb) |
+| 11 | **Advanced Sequential Modeling Algorithms** | <ul><li>Advanced_Sequential_Algorithms.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cloudanum/50Algorithms/blob/main/Chapter11/Advanced_Sequential_Algorithms.ipynb) |
+| 12 | **Recommendation Engines** | <ul><li>Movies_recommendation.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cloudanum/50Algorithms/blob/main/Chapter12/Movies_recommendation.ipynb) |
+| 13 | **Algorithmic Strategies for Data Handling** | <ul><li>Algorithmic_Strategies_for_Data_Handling</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cloudanum/50Algorithms/blob/main/Chapter13/Algorithmic_Strategies_for_Data_Handling) |
+| 14 | **Cryptography** | <ul><li>Cryptography.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cloudanum/50Algorithms/blob/main/Chapter14/Cryptography.ipynb) |
+| 16 | **Practical Considerations** | <ul><li>Model_Explanability.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cloudanum/50Algorithms/blob/main/Chapter16/Model_Explanability.ipynb) |
 
 
 
