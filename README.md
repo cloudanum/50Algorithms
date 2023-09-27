@@ -38,7 +38,7 @@ By the end of this programming book, you'll have become adept at solving real-wo
 In this second edition of [50 Algorithms Every Programmer Should Know](https://www.packtpub.com/product/50-algorithms-every-programmer-should-know-ndash-second-edition-second-edition/9781803247762), most algorithms from the first edition have been updated in line with current IT trends. Further, readers will also delve into advanced deep learning architectures with new chapters on sequential models like LSTMs, GRUs, RNNs, and Large Language Models (LLMs). This edition also sheds light on contemporary topics such as addressing hidden data biases and demystifying algorithm explainability.
 
 ## Running on a cloud platform
-To run these notebooks on a cloud platform, just click on Colab badge in the table below. The code will be reproduced from Github directly onto the Colab (you may have to add the necessary data before running it). Alternatively, we also provide links to the fully working original notebook on Kaggle that you can copy and immediately run.
+To run these notebooks on a cloud platform, just click on <img alt="Coding" height="15" width="27" src="https://pbs.twimg.com/card_img/1704811668616712192/QS_K5UAO?format=png&name=900x900"> badge in the table below. The code will be reproduced from Github directly onto the Colab (you may have to add the necessary data before running it). Alternatively, we also provide links to the fully working original notebook on Kaggle that you can copy and immediately run.
 
 |no| Chapter | Notebook | Colab | 
 |:--| :-------- | :-------- | :-------: | 
