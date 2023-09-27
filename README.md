@@ -34,10 +34,46 @@ By the end of this programming book, you'll have become adept at solving real-wo
 - Explore new topical discussions, such as how to handle hidden bias in data and the explainability of algorithms
 
 
-
-
 ## What's New
 In this second edition of [50 Algorithms Every Programmer Should Know](https://www.packtpub.com/product/50-algorithms-every-programmer-should-know-ndash-second-edition-second-edition/9781803247762), most algorithms from the first edition have been updated in line with current IT trends. Further, readers will also delve into advanced deep learning architectures with new chapters on sequential models like LSTMs, GRUs, RNNs, and Large Language Models (LLMs). This edition also sheds light on contemporary topics such as addressing hidden data biases and demystifying algorithm explainability.
+
+## Running on a cloud platform
+To run these notebooks on a cloud platform, just click on Colab badge in the table below. The code will be reproduced from Github directly onto the Colab (you may have to add the necessary data before running it). Alternatively, we also provide links to the fully working original notebook on Kaggle that you can copy and immediately run.
+
+|no| Chapter | Notebook | Colab | 
+|:--| :-------- | :-------- | :-------: | 
+| | | | |
+| 02| **Data Structures Used in Algorithms** | <ul><li>Data_Structures_Used_in_Algorithms.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cloudanum/50Algorithms/blob/main/Chapter02/Data_Structures_Used_in_Algorithms.ipynb) |
+| 03 | **Sorting and Searching Algorithms** | <ul><li>Sorting_and_Searching_Algorithms.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cloudanum/50Algorithms/blob/main/Chapter03/Sorting_and_Searching_Algorithms.ipynb) |
+| 04 | **Designing Algorithms** | <ul><li>Divide_and_conquer.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cloudanum/50Algorithms/blob/main/Chapter04/Divide_and_conquer.ipynb) |
+||| <ul><li>Linear_Programming.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cloudanum/50Algorithms/blob/main/Chapter04/Linear_Programming.ipynb) |
+||| <ul><li>PageRank_Algorithm.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cloudanum/50Algorithms/blob/main/Chapter04/PageRank_Algorithm.ipynb) |
+||| <ul><li>Travelling_Salesman_Problem.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cloudanum/50Algorithms/blob/main/Chapter04/Travelling_Salesman_Problem.ipynb)|
+| 05 | **Graph Algorithms** | <ul><li>GraphAlgorithms.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cloudanum/50Algorithms/blob/main/Chapter05/GraphAlgorithms.ipynb) | Unsupervised_Machine_Learning_Algorithms.ipynb
+| 06 | **Unsupervised Machine Learning Algorithms** | <ul><li>Unsupervised_Machine_Learning_Algorithms.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cloudanum/50Algorithms/blob/main/Chapter06/Unsupervised_Machine_Learning_Algorithms.ipynb) |
+| 07 | **Traditional Supervised Learning Algorithms** | <ul><li>Bagging_Algorithms.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cloudanum/50Algorithms/blob/main/Chapter07/Bagging_Algorithms.ipynb) |
+||| <ul><li>DecisionTree.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cloudanum/50Algorithms/blob/main/Chapter07/DecisionTree.ipynb) |
+||| <ul><li>GradientBoostRegression.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cloudanum/50Algorithms/blob/main/Chapter07/GradientBoostRegression.ipynb) |
+||| <ul><li>LinearRegression.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cloudanum/50Algorithms/blob/main/Chapter07/LinearRegression.ipynb) |
+||| <ul><li>Logistic_Regression.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cloudanum/50Algorithms/blob/main/Chapter07/Logistic_Regression.ipynb) |
+||| <ul><li>NaiveBayes.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cloudanum/50Algorithms/blob/main/Chapter07/NaiveBayes.ipynb) |
+||| <ul><li>RegressionTree.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cloudanum/50Algorithms/blob/main/Chapter07/RegressionTree.ipynb) |
+||| <ul><li>SVM.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cloudanum/50Algorithms/blob/main/Chapter07/SVM.ipynb) |
+||| <ul><li>WeatherPrediction.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cloudanum/50Algorithms/blob/main/Chapter07/WeatherPrediction.ipynb) |
+||| <ul><li>XGBboost.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cloudanum/50Algorithms/blob/main/Chapter07/XGBboost.ipynb) |
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Outline and Chapter Summary
 1. [Overview of Algorithms]()
